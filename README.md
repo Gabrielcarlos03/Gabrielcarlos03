@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou Gabriel Carlos 👋</h1>
+<h1 align="center">Olá, Eu Sou Gabriel Carlos 👋</h1>
 
 <p align="center">
   Desenvolvedor Frontend & IA · HTML · CSS · JS · Bootstrap · Prompt Engineering
