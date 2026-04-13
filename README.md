@@ -1,4 +1,8 @@
-<h1 align="center">Olá, Eu Sou Gabriel Carlos 👋</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gabrielcarlos03&color=blue&style=for-the-badge" alt="Visitas ao perfil"/>
+</p>
+
+<h1 align="center">Olá, eu sou Gabriel Carlos 👋</h1>
 
 <p align="center">
   Desenvolvedor Frontend & IA · HTML · CSS · JS · Bootstrap · Prompt Engineering
@@ -35,7 +39,20 @@
 
 ---
 
+## 📊 Estatísticas
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabrielcarlos03&show_icons=true&theme=dark&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielcarlos03&layout=compact&theme=dark&hide_border=true)
+
+</div>
+
+---
+
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsgabrielcarlos)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gabrielcarlos03)
+[![Site](https://img.shields.io/badge/VeImports-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://veimports.netlify.app)
