@@ -1,10 +1,10 @@
 <h1 align="center">Olá, Eu Sou Gabriel Carlos 👋</h1>
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" height="270"/>
-</div>
 <p align="center">
   Desenvolvedor Frontend & IA · HTML · CSS · JS · Bootstrap · Prompt Engineering
 </p>
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" height="270"/>
+</div>
 
 ---
 
