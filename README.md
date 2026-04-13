@@ -3,7 +3,7 @@
   Desenvolvedor Frontend & IA · HTML · CSS · JS · Bootstrap · Prompt Engineering
 </p>
 <div align="center">
-  <img src="animation.gif" width="260"/>
+  <img src="animation.gif" width="240"/>
 </div>
 
 ---
