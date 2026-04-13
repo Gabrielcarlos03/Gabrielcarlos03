@@ -35,11 +35,11 @@
 
 ---
 
-## 📊 Estatísticas
+## 🏆 Conquistas
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gabrielcarlos03&theme=tokyonight)
+![](https://github-profile-trophy.vercel.app/?username=Gabrielcarlos03&theme=tokyonight&no-frame=true&row=1&column=6)
 
 </div>
 
