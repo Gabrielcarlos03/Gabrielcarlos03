@@ -3,7 +3,7 @@
   Desenvolvedor Frontend & IA · HTML · CSS · JS · Bootstrap · Prompt Engineering
 </p>
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="480" height="270"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="480" height="270"/>
 </div>
 
 
