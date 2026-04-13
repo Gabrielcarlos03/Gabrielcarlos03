@@ -35,16 +35,6 @@
 
 ---
 
-## 🏆 Conquistas
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=Gabrielcarlos03&theme=tokyonight&no-frame=true&row=1&column=6)
-
-</div>
-
----
-
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsgabrielcarlos)
