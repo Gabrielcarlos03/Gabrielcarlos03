@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Gabrielcarlos03.Gabrielcarlos03&style=for-the-badge" />
-</p>
-
 <h1 align="center">Olá, eu sou Gabriel Carlos 👋</h1>
 
 <p align="center">
@@ -22,37 +18,4 @@
 ## 🛠️ Tecnologias
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
----
-
-## 📌 Projetos em Destaque
-
-| Projeto | Descrição |
-|---|---|
-| [🛍️ VeImports](https://github.com/Gabrielcarlos03/SITEOFICIAL_VEIMPORTS) | E-commerce completo com múltiplas categorias e integração WhatsApp |
-| [💇‍♀️ Master Hair AI](https://github.com/Gabrielcarlos03/master-hair-ai) | Consultora profissional de salão com IA generativa |
-| [🏥 Sistema Farmácia Exército](https://github.com/Gabrielcarlos03/sistema-controle-estoque-farmacia-exercito) | Sistema de gestão farmacêutica aplicado no Exército Brasileiro |
-
----
-
-## 📊 Estatísticas
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabrielcarlos03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielcarlos03&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 📫 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsgabrielcarlos)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gabrielcarlos03)
-[![Site](https://img.shields.io/badge/VeImports-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://veimports.netlify.app)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge
