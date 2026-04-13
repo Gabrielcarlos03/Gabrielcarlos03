@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gabrielcarlos03&color=blue&style=for-the-badge" alt="Visitas ao perfil"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Gabrielcarlos03.Gabrielcarlos03&style=for-the-badge" />
 </p>
 
 <h1 align="center">Olá, eu sou Gabriel Carlos 👋</h1>
@@ -43,9 +43,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabrielcarlos03&show_icons=true&theme=dark&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabrielcarlos03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielcarlos03&layout=compact&theme=dark&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielcarlos03&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
 
 </div>
 
